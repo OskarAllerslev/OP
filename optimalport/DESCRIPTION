@@ -1,0 +1,17 @@
+Package: optimalport
+Title: An Amazing Shiny App
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Oskar",
+           family = "Allerslev",
+           role = c("aut", "cre"),
+           email = "oskar.m1660@gmail.com")
+Description: shiny app for optimal portfolio allocation
+License: What license is it under?
+Imports: 
+    config,
+    golem,
+    shiny
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
