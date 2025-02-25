@@ -20,7 +20,7 @@ app_ui <- function(request) {
           p("Denne applikation beregner en optimal portefølje baseret på Max Sharpe Ratio.
             Du kan vælge en startdato for dine beregninger, og se hvordan afkast og risiko påvirker allokeringen."),
           dateInput("start_date", "Vælg startdato for data:",
-                    value = Sys.Date() - 730, format = "yyyy-mm-dd"),
+                    value = Sys.Date() - 365, format = "yyyy-mm-dd"),
           p("Startdatoen bestemmer, hvor langt tilbage vi kigger for at beregne afkast og risiko.
             En længere periode kan give et mere robust estimat, men inkluderer også ældre markedsdata.")
         )
