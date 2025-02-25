@@ -259,6 +259,7 @@ ticker_list <- c(
   # Obligationer og Fixed Income
   # "SGLO.DE",  # Global Bonds Hedged EUR
 
+  "IMEU.AS",
   # "NVO",
   # "FXEU.L",
   # "FXUS.L",
