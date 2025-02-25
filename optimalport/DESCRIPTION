@@ -7,14 +7,16 @@ Description: shiny app for optimal portfolio allocation
 License: What license is it under?
 Imports: 
     config,
-    golem,
-    pkgload,
-    shiny,
-    quantmod,
-    quadprog,
-    tibble,
+    devtools,
     dplyr,
-    stats
+    golem,
+    magrittr,
+    quadprog,
+    quantmod,
+    shiny,
+    stats,
+    tibble,
+    tidyverse
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2

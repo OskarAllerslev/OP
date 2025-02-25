@@ -259,13 +259,13 @@ ticker_list <- c(
   # Obligationer og Fixed Income
   # "SGLO.DE",  # Global Bonds Hedged EUR
 
-  "NVO",
+  # "NVO",
   # "FXEU.L",
   # "FXUS.L",
   # "FXGB.L",
-  "SAP.DE",
-  "OR.PA",
-  "NESN.SW",
+  # "SAP.DE",
+  # "OR.PA",
+  # "NESN.SW",
   # Råvarer og alternative investeringer
   "PHGP.L",   # Physical Gold
   "SPY4.L",   # Commodities Broad Market
